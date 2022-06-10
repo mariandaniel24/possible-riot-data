@@ -116,14 +116,15 @@ Note: all of these events include a timestamp:
     - how much damage each enemy dealt
     - minion damage
 
-### Every minute
+### Overview data - aggregated every minute
 - for every player:
     - champion stats (armor, mr, attack damage, etc)
     - gold
     - gold per second 
     - current level and xp amount
     - minions
-    - position
+    - position (x/y coordinates)
+    - k/d/a
 
 
 

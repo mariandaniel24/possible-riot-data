@@ -128,23 +128,17 @@ Note: all of these events include a timestamp:
 
 
 
-# Live game client API - note that this requires the player to install a software on their computer:
+# Live game client API 
 Note: this data can be queried in real time:
 
 - for any champion in the game:
     - current items
-    - champion stats
     - respawn timer
     - creep score
     - k/d/a
-    - ward score
-- for the current player:
-    - champion stats (armor/mr, crit chance, etc)
     - current position (middle/top/bot)
     - gold
-    - level / xp amount
-    - runes and current values (taste of blood - x amount healed, etc)
-    - current spell levels (3 points Q, 1 point W, etc)
+    - level 
 - events (we get them as soon as they happen in game)
     - champion kills
     - epic monster kills
@@ -152,3 +146,9 @@ Note: this data can be queried in real time:
     - inhibitor/tower kills
     - multikills
 
+- extra (requires a user to install 3rd party software)
+    - ward score
+    - champion stats (armor/mr, crit chance, etc)
+    - xp amount
+    - runes and current values (taste of blood - x amount healed, etc)
+    - current spell levels (3 points Q, 1 point W, etc)

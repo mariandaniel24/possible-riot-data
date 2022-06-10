@@ -7,7 +7,7 @@
 - Champ experience 		
 - Champ level 		
 - Champion name 	
-- Champion transform - 	This field is currently only utilized for Kayn's transformations. (Legal values: 0 - None, 1 - Slayer, 2 - Assassin)
+- Champion transform - 	This field is currently only utilized for Kayn's transformations
 - Consumables purchased 		
 - Damage dealt to buildings 		
 - Damage dealt to objectives 		
@@ -47,7 +47,7 @@
 - Objectives stolen assists 		
 - Participant id 		
 - Penta kills 		
-- Perks 	PerksDto 	
+- Perks
 - Physical damage dealt 		
 - Physical damage dealt to champions 		
 - Physical damage taken 		
@@ -60,9 +60,8 @@
 - Spell4 casts 		
 - Summoner level 		
 - Summoner name 	
-- Team early surrendered 	
-- Team id 		
-- Team position 	- The teamPosition is the best guess for which position the player actually played if we add the constrathat each team must have one top player,one jungle, one middle, etc.
+- Team early surrendered? 		
+- Team position  - The teamPosition is the best guess for which position the player actually played if we add the constrathat each team must have one top player,one jungle, one middle, etc.
 - Time cc-ing others 		
 - Time played 		
 - Total damage dealt 		
